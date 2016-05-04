@@ -1,6 +1,5 @@
 # My personal stuff #
 #####################
-
 *.secrets
 
 # Compiled source #
